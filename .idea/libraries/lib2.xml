@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/JavaFx/JavaFxLinux/javafx-sdk-17/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/JavaFx/JavaFxLinux/javafx-sdk-17/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/JavaFx/JavaFxLinux/javafx-sdk-17/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/JavaFx/JavaFxLinux/javafx-sdk-17/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/JavaFx/JavaFxLinux/javafx-sdk-17/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
